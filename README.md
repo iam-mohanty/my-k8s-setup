@@ -1,1 +1,1 @@
-# my-k8s-setup
+# kubernetes-install
